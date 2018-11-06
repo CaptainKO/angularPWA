@@ -1,0 +1,12 @@
+{
+  "serverless": {
+    "skipInstall": true,
+    "project": "myAwesomeApp",
+    "provider": "aws",
+    "directory": "myAwesomeApp",
+    "serverless": {
+      "aws": {},
+      "gcloud": {}
+    }
+  }
+}
