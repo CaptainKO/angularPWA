@@ -16,3 +16,4 @@ dll
 firebug-lite.tar.tgz
 serverless.yml
 /coverage
+/functions/node_modules/
